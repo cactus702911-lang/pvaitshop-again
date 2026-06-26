@@ -17,8 +17,8 @@ var siteConfig = {
     "themeColor": "#0B1120",
     "popupTitle": "",
     "popupMessage": "",
-    "faviconUrl": "/favicon.png",
-    "logoUrl": "/favicon.png",
+    "faviconUrl": "/favicon.webp",
+    "logoUrl": "/favicon.webp",
     "typingWords": "Verified Accounts, Google Services, Facebook Ads, Twitter Profiles",
     "redirects": []
 };
