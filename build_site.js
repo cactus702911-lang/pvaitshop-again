@@ -1561,6 +1561,8 @@ blogs.forEach((post, index) => {
         .prose h1, .prose h2, .prose h3 {
             display: block !important;
         }
+        .prose a { color: #22d3ee !important; text-decoration: underline !important; font-weight: bold !important; }
+        .prose a:hover { color: #06b6d4 !important; }
         .prose h1 { font-size: 2.25rem !important; line-height: 2.5rem !important; margin-bottom: 1.5rem !important; margin-top: 2rem !important; font-weight: 800 !important; }
         .prose h2 { font-size: 1.875rem !important; line-height: 2.25rem !important; margin-bottom: 1.25rem !important; margin-top: 1.75rem !important; font-weight: 700 !important; }
         .prose h3 { font-size: 1.5rem !important; line-height: 2rem !important; margin-bottom: 1rem !important; margin-top: 1.5rem !important; font-weight: 600 !important; }

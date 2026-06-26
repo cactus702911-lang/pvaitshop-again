@@ -195,7 +195,7 @@ var blogs = [
         "seo_title": "Cash App Verified Accounts: Features, Limits and Professional Use Cases | PVAitShop",
         "slug": "cash-app-verified-accounts-features-limits-professional-use",
         "date": "Jun 26, 2026",
-        "image": "",
+        "image": "/images/blog/cash-app-blog-header.png",
         "excerpt": "A comprehensive educational guide to Cash App verified accounts — covering ID verification steps, transfer limits, Bitcoin access, real-world use cases for freelancers, crypto traders and developers, and what makes a fully verified profile different from an unverified one.",
         "seo_tags": "cash app verified accounts, verified cash app account, cash app id verification, cash app transfer limits, cash app bitcoin access, cash app account features, cash app for freelancers, cash app account guide, pvaitshop cash app",
         "cta_1_text": "Get a Verified Cash App Account",
