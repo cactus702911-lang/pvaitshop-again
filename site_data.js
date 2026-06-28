@@ -52,9 +52,9 @@ var categories = [
         "description": "",
         "content": "<p><br></p>",
         "items": [
+            "Verified Cash App Accounts",
             "Verified PayPal Account",
-            "Verified Wise Account ",
-            "Verified Cash App Accounts"
+            "Verified Wise Account "
         ]
     }
 ];
@@ -88,7 +88,7 @@ var products = [
     {
         "id": 3,
         "active": true,
-        "title": "Verified Wise Account – Multi-Currency Profiles for Global Money Transfers",
+        "title": "Verified Wise Account",
         "display_title": "Verified Wise Account ",
         "slug": "verified-wise-account-multi-currency-profiles",
         "category": "Bank & Crypto",
@@ -122,7 +122,7 @@ var products = [
     {
         "id": 2,
         "active": true,
-        "title": "Verified PayPal Account – Secure Profiles for Global Payments & Online Transactions",
+        "title": "Verified PayPal Account",
         "display_title": "Verified PayPal Account",
         "slug": "verified-paypal-account-secure-profiles",
         "category": "Bank & Crypto",
@@ -159,7 +159,7 @@ var products = [
     {
         "id": 1,
         "active": true,
-        "title": "Buy Verified Cash App Accounts",
+        "title": "Verified Cash App Accounts",
         "display_title": "Verified Cash App Accounts",
         "slug": "verified-cash-app-account-for-digital-payments-money-transfer",
         "category": "Bank & Crypto",
