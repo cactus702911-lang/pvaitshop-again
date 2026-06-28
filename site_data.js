@@ -52,9 +52,9 @@ var categories = [
         "description": "",
         "content": "<p><br></p>",
         "items": [
-            "Verified Cash App Accounts",
             "Verified PayPal Account",
-            "Verified Wise Account "
+            "Verified Wise Account ",
+            "Verified Cash App Accounts"
         ]
     }
 ];
@@ -163,7 +163,7 @@ var products = [
         "display_title": "Verified Cash App Accounts",
         "slug": "verified-cash-app-account-for-digital-payments-money-transfer",
         "category": "Bank & Crypto",
-        "image": "",
+        "image": "/images/products/Buy Verified Cash App Accounts.webp",
         "image_title": "Buy Verified Cash App Profiles – ID-Verified Accounts with BTC & Transfer Access",
         "min_price": 149,
         "max_price": 949,
